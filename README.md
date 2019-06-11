@@ -1,1 +1,1 @@
-# dynamic-dns
+# Dynamic DNS
